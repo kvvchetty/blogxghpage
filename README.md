@@ -1,6 +1,3 @@
 
-# Blog git Pages using Bootstrap 4
+# Blog on Technology  
 
-## License
-
-[See the license file.](./LICENSE.md)
