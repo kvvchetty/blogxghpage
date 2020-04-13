@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Blog on Technology in data handling Pages
+layout: home
+title: Data handling Pages
 ---
 
 
