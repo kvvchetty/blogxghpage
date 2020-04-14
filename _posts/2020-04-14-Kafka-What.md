@@ -4,16 +4,19 @@ title: "Kafka What!"
 ---
 
 - [Job Roles in Apache Kafka]
+---
 - [Kafka Developers]
 - [Kafka Testing Professionals]
 - [Big Data Architects in Kafka]
 - [Kafka Project Managers]
+-
+- [Teams responsibilities]
 ---
-- [Roles]
 - [There are multiple responsibilites. Not one unit.]
----
+-
 - [Programmers]
-- [For programmers, there is nothing different, If you already used jms and products such as MQ or Solace.]
+---
+- [For programmers, If you already used jms and products such as MQ or Solace. This one has some more features.]
 - [In spring boot, there is a extension available to work with kafka.]
 - [There is connector for mongodb, and other database servers]
 - [Kafka connects to Spark, another open source product better than HDF.]
