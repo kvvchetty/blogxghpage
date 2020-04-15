@@ -4,7 +4,7 @@ A proto type document
 
 Person
 
-![](./media/image1.png){width="2.9270833333333335in"
+![](/assets/images/person-mongo-prototype.png){width="2.9270833333333335in"
 height="1.7604166666666667in"}
 
 *MyCompany has just launched their brand new OneDroid phone range to the
