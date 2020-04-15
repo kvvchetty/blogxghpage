@@ -51,8 +51,7 @@ KafkaJs is another open source library to run with NodeJs.
 Kafka runs locally in a docker container
 
 
-
-<img src="/assets/images/Confluent_Use_Cases.png" alt="UseCase" title="Value Reasoning"/>
+![Reasoning](../assets/images/Confluent_Use_Cases.png)
 
 
 Open-Bank use case with Kafka
