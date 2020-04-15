@@ -21,15 +21,15 @@ Kafka has the following features in distributed communication
 
 - Topics
 
-Partitions
+- Partitions
 
-Brokers
+- Brokers
 
-Producers
+- Producers
 
-Consumers
+- Consumers
 
-Consumer Groups
+- Consumer Groups
 
 Topic
 
