@@ -2,12 +2,9 @@ Mongo-DB : A data model scenario
 
 A proto type document
 
-Person
+ACID test case
 
-![](images/person-mongo-prototype.png){width="2.9270833333333335in"
-height="1.7604166666666667in"}
-
-*MyCompany has just launched their brand new OneDroid phone range to the
+*A Company has just launched their brand new OneDroid phone range to the
 eager reception of the consumer market. Your task is to build a
 e-commerce system to take advantage of this huge opportunity and the
 stock we got allocated.*
